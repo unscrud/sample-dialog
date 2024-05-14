@@ -1,0 +1,10 @@
+dialog::backdrop {
+  background-color: rgba(0, 0, 0, .4);
+}
+
+dialog {
+  border: none;
+  border-radius: .5rem;
+  box-shadow: 0 0 1em rgba(0, 0, 0, .6);
+  width: 80%;
+}
